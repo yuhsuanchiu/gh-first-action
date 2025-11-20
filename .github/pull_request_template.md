@@ -1,12 +1,21 @@
-## 📝 Summary
-請描述這次 PR 的目的與變更內容。
+## Change
 
-## 🔍 Related Issue
-Fixes # (issue number)
+- Describe your change here…
+- Example: Updated the vendor reference from "BCM" to "broadcom" for IGMP known multicast test case to ensure accurate configuration for SSDP protocol handling.
 
-## 📸 Screenshots (if applicable)
+---
 
-## ✔️ Checklist
-- [ ] Code 已通過本地測試
-- [ ] 單元測試（如果有）已更新
-- [ ] 文件已更新（如果需要）
+## Check List
+
+- [ ] Config file changes or not? ❌  
+- [ ] Does this case have a TestRail case already? ✔️  
+- [ ] Did you run this case locally? (Screenshot + Report Link) ✔️  
+- [ ] Which model did you use for test? 🧪 <!-- e.g. USW-Pro-48-PoE -->
+- [ ] New SDK feature or modify existing function? ❌  
+
+---
+
+<!-- Optional: Attachments -->
+### Attachments
+- Screenshot:
+- Logs / Report links:
