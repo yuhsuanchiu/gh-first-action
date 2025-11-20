@@ -1,28 +1,19 @@
 ## Change
 
-- Describe your change here…
-- Example: Updated the vendor reference from "BCM" to "broadcom" for the IGMP known multicast test case to ensure accurate configuration for SSDP protocol behavior.
+- Introduce a standardized PR template to improve review consistency
+- Include sections for change description, discussion reference, and checklist
+	new file:   .github/pull_request_template.md
 
-## Check List
+## Validation Summary
 
-1. **Which model did you use for testing?**  
-   <!-- Example: USW-Pro-48-PoE --> 
-
-2. **Did this update involve any modifications to config files?**  
-   - [ ] Yes  
-   - [ ] No  
-   <!-- If Yes, please describe the modifications -->
-
-3. **Does this update include any new SDK features or modifications to existing functions?**  
-   - [ ] Yes  
-   - [ ] No  
-   <!-- If Yes, please describe the changes -->
-
-4. **Local execution verification:**  
-   - [ ] I confirm that this test case has been executed locally and has passed successfully.  
-   <!-- Provide screenshot or logs if needed -->
+| Item | Answer | Notes |
+|------|--------|--------|
+| Config files modified? | Yes / No  | If yes, describe modifications. |
+| New SDK feature or function change? | Yes / No | If yes, provide details. |
+| Test model used | Model name | Example: USW-Pro-48-PoE |
+| Local test passed? | ✅ Passed | Provide logs/screenshots below. |
 
 
-## Attachments (Optional)
-- Screenshot:
+## Attachments
+- Screenshot:  
 - Logs / Report links:
