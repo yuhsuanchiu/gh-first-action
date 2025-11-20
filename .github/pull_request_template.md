@@ -4,7 +4,7 @@
 - Example: Updated the vendor reference from "BCM" to "broadcom" for the IGMP known multicast test case to ensure accurate configuration for SSDP protocol behavior.
 
 
-## Check List (Q&A with Yes/No)
+## Check List
 
 1. **Did this update involve any modifications to config files?**  
    - [ ] Yes  
@@ -25,6 +25,6 @@
 
 
 
-### Attachments
+## Attachments
 - Screenshot:
 - Logs / Report links:
