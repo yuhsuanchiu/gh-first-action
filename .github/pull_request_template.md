@@ -10,6 +10,7 @@
 |------|--------|--------|
 | Config files modified? | Yes / No  | If yes, describe modifications. |
 | New SDK feature or function change? | Yes / No | If yes, provide details. |
+| TestRail case exists? | Yes / No | Provide TestRail ID if available. |
 | Test model used | Model name | Example: USW-Pro-48-PoE |
 | Local test passed? | ✅ Passed | Provide logs/screenshots below. |
 
