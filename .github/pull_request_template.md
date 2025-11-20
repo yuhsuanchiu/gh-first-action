@@ -5,7 +5,7 @@
 
 ## Check List
 
-1.**Which model did you use for testing?**  
+1. **Which model did you use for testing?**  
    <!-- Example: USW-Pro-48-PoE --> 
 
 2. **Did this update involve any modifications to config files?**  
