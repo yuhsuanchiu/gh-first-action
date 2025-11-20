@@ -19,9 +19,8 @@
 
 3. **Which model did you use for testing?**  
    <!-- Example: USW-Pro-48-PoE -->
-
-4. **Local execution verification:**  
-   - [ ] I confirm that this test case has been executed locally and has passed successfully.  
+ 
+- [ ] **I confirm that this test case has been executed locally and has passed successfully. ** 
    <!-- Provide screenshot or logs if needed -->
 
 
